@@ -1,0 +1,11 @@
+.header_list {
+    display: flex;
+}
+
+.list_item {
+    margin-right: 10px;
+}
+
+.list_item:last-child {
+    margin-right: 0;
+}
